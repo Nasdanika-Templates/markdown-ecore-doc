@@ -1,4 +1,4 @@
-# Ecore Documentation
+# Markdown Ecore Documentation
 
 This is a template repository for generating ecore documentation from markdown documentation mapped to ecore metamodels.
 Documentation can be generated manually using [Nasdanika CLI](https://docs.nasdanika.org/nsd-cli/index.html) and then published to GitHub pages if desired.
